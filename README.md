@@ -1,8 +1,8 @@
 # Major Sistem - Hafıza Tekniği
 [![Kivy](https://img.shields.io/badge/Kivy-black?&style=flat)](https://kivy.org/doc/stable/)
 [![KivyMD](https://img.shields.io/badge/KivyMD-grey?&style=flat)](https://kivymd.readthedocs.io/en/latest/)
-[![](https://img.shields.io/github/v/release/manahter/majorsistem)](https://github.com/manahter/nCNC)
-[![n](https://img.shields.io/github/release-date-pre/manahter/majorsistem)](https://github.com/manahter/nCNC)
+[![](https://img.shields.io/github/v/release/manahter/majorsistem)](https://github.com/manahter/majorsistem)
+[![n](https://img.shields.io/github/release-date-pre/manahter/majorsistem)](https://github.com/manahter/majorsistem)
 ![GitHub last commit](https://img.shields.io/github/last-commit/manahter/majorsistem)
 
 İnternette bir yazıya rastladım.Bu yazıda bir teknik anlatılıyordu. Bu teknik sayıları hafızada daha iyi tutabilmeye yönelik bir teknikti. Ben de bu teknikten yola çıkarak basit bir uygulama kodlayım dedim. 
