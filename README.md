@@ -29,7 +29,7 @@ Bu uygulama ile Major Sistem adı verilen hafıza tekniğini
 * Kişiselleştirilebilir tema rengi
 
 ## Uygulamadan Görüntüler
-![Ekran GÖrüntüleri](./images/v0.34.png)
+![Ekran GÖrüntüleri](images/v0.34.png)
 
 ## Yardımcı Kaynaklar
   * ![Buildozer](https://buildozer.readthedocs.io/en/latest/) dokümanlar
